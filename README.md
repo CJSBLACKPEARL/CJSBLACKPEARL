@@ -13,8 +13,19 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CJSBLACKPEARL&layout=compact&theme=tokyonight)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CJSBLACKPEARL&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🚀 Featured Projects
+
+[![Weather App using Dockers](https://github-readme-stats.vercel.app/api/pin/?username=CJSBLACKPEARL&repo=Weather-app-using-Dockers&theme=tokyonight)](https://github.com/CJSBLACKPEARL/Weather-app-using-Dockers)
+
+[![Smart Cloud Attendance System](https://github-readme-stats.vercel.app/api/pin/?username=CJSBLACKPEARL&repo=Smart-Cloud-Attendance-system&theme=tokyonight)](https://github.com/CJSBLACKPEARL/Smart-Cloud-Attendance-system)
+
+[![Dev Team](https://github-readme-stats.vercel.app/api/pin/?username=CJSBLACKPEARL&repo=Dev-Team&theme=tokyonight)](https://github.com/CJSBLACKPEARL/Dev-Team)
+
+[![QA Team](https://github-readme-stats.vercel.app/api/pin/?username=CJSBLACKPEARL&repo=QA-Team&theme=tokyonight)](https://github.com/CJSBLACKPEARL/QA-Team)
+
+[![MEAN CRUD App](https://github-readme-stats.vercel.app/api/pin/?username=CJSBLACKPEARL&repo=mean-crud-app&theme=tokyonight)](https://github.com/CJSBLACKPEARL/mean-crud-app)
+
+[![PeakPerform AI](https://github-readme-stats.vercel.app/api/pin/?username=CJSBLACKPEARL&repo=spark-fullstack-body&theme=tokyonight)](https://github.com/CJSBLACKPEARL/spark-fullstack-body)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
